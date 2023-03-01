@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi, my name is William and I'm studying IT at [KTH](https://www.kth.se/social/program/cinte/).
 
+I'm currently developing a "Banking application" combining elements of different courses given at KTH. The project involves:
+* a Java GUI using Java Swing
+* connecting to a server using TCP
+* executing transactions on the server using the SQLite C interface
+
+## Social:
+[Linkedin](https://www.linkedin.com/in/williamhedenskog/)
 <!--
 **pilsnerfrajz/pilsnerfrajz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
