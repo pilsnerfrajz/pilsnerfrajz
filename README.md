@@ -5,7 +5,7 @@ I mostly code in Java, but have some experience with C and Assembly, SQL as well
 ## Current projects
 I'm currently developing a "banking application", combining elements of different courses given at KTH. The project involves:
 * a Java GUI using Java Swing
-* connecting to a server using TCP
+* connecting to a server over TCP
 * executing transactions on the server using the SQLite C interface
 
 The current progress can be found [here](https://github.com/pilsnerfrajz/Breadbank).
