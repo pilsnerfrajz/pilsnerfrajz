@@ -11,6 +11,8 @@ I'm currently developing a "banking application", combining elements of differen
 The current progress can be found [here](https://github.com/pilsnerfrajz/Breadbank).
 
 ## Previous projects
+[A Unity football game with ragdolls](https://github.com/filhed97/Klantboll)
+
 [A database for a music school in PostgreSQL](https://github.com/pilsnerfrajz/IV1351-Project) 
 
 [A tetris game on the uC32 Chipkit](https://github.com/Tullingemarcus/tetris-on-uC32)
