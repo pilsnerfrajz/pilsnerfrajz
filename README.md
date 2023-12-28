@@ -5,9 +5,9 @@ I mostly code in Java, but have some experience with C and Assembly, SQL, JavaSc
 ## Previous projects
 [Star Wars Wiki](https://github.com/Cactooz/StarWarsWiki)
 
-[Banking application with fictional currency](https://github.com/pilsnerfrajz/Breadbank)
-
 [A Unity football game with ragdolls](https://github.com/filhed97/Klantboll)
+
+[A banking application with fictional currency](https://github.com/pilsnerfrajz/Breadbank)
 
 [A database for a music school in PostgreSQL](https://github.com/pilsnerfrajz/IV1351-Project) 
 
